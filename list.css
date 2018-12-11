@@ -29,7 +29,7 @@
 }
 
 footer {
-  padding-top: 3rem;
+  /* padding-top: 3rem; */
   padding-bottom: 3rem;
 }
 
@@ -43,6 +43,7 @@ footer p {
 }
 
 .album{
+  padding-top: 3rem;
   background-image: url("doodleblack.png");
   flex: 1;
 }
